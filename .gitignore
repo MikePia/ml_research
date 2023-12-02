@@ -5,3 +5,6 @@ ISIC_proc/data/ISIC-images.zip
 LDIC_proc/data/
 ISIC_proc/data/
 ISIC_dense_net_clustering_early.ipynb
+.vscode/settings.json
+.prettierrc.json
+setup.cfg

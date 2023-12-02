@@ -110,3 +110,6 @@ reloaded_model = load_model('path_to_my_model.h5')
 - **Evaluation and Prediction**: After reloading the model, you can use it for evaluation or prediction just like the original model. For example, `reloaded_model.evaluate(x_test, y_test)` or `reloaded_model.predict(x_new)`.
 
 Saving the entire model is very convenient as it encapsulates everything about the model, but be aware that this method can result in large file sizes, especially for complex models.
+
+
+Help me to alter the script posted below. Currently it uses the same dataset set locally to work with a local  KMeans  and also to fine tune a pretrained model. I would like keep the pretrained using the current dataset fine tuned model, but change the the other to use the new larger dataset. The two datasets are represented by a directory of images. The current dataset in ../data/images and the new on in ../data/images2. Each dataset has a metada file associated with it
