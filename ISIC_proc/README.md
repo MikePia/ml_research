@@ -10,3 +10,7 @@ Alternately dowload the larger collection  (30,000 images) from here
 
 In either case, unzip the files here
 `project-dir/data/images/`
+
+
+
+
